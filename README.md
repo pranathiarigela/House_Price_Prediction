@@ -27,3 +27,7 @@ Pandas
 Tkinter (for GUI)
 
 Matplotlib (for visualization)
+
+📊 Model Output
+
+The linear regression model achieves an R² score of ~0.58 with basic features. You can improve accuracy by engineering additional features from the dataset.
