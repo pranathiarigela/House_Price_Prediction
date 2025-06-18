@@ -12,12 +12,18 @@ FILES INCLUDED:
 
 Features Used:
 GrLivArea – Above ground living area (in sq ft)
+
 BedroomAbvGr – Number of bedrooms above ground
+
 FullBath – Number of full bathrooms
 
 Technologies Used:
 Python 3.x
+
 Scikit-learn
+
 Pandas
+
 Tkinter (for GUI)
+
 Matplotlib (for visualization)
