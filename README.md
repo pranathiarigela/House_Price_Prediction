@@ -8,6 +8,7 @@ FILES INCLUDED:
 | `house_price.py`              | GUI application built with Tkinter                        |
 | `house_price_predictions.csv` | Output file containing predicted prices on test data      |
 | `README.md`                   | Project documentation (you are here!)                     |
+
 Features Used:
 GrLivArea – Above ground living area (in sq ft)
 BedroomAbvGr – Number of bedrooms above ground
